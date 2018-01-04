@@ -1,1 +1,2 @@
-create table employe(emp_id int,salary int);
+create table employe(emp_id int);
+
