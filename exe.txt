@@ -1,0 +1,1 @@
+create table employe(emp_id int,salary int);
